@@ -5,7 +5,7 @@ lass Dog
   end
 
   def name
-    @name 
+    @name
   end
 
   def bark
